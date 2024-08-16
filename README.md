@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leyla Akkurt</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently working on **Creating Social Full Stack Application**
+- 🌱 I’m currently working on **JuniusApp and Kartİrtifakı Projects**
 
 - 📫 How to reach me **leylaacinar@gmail.com**
 - You can look my portfolio web site from **https://portfolio-two-fawn-17.vercel.app/**
